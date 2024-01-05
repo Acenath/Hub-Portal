@@ -21,34 +21,6 @@ A public scoreboard is available for everyone to view, showcasing the top perfor
 6. Weather Forecast
 The homepage includes a weather forecast functionality. Users can enter a city name, and the portal retrieves a 3-day weather forecast for the specified location.
 
-## Getting Started
-
-## Prerequisites:
-Python installed
-Flask framework installed
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/student-hub-portal.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd student-hub-portal
-Install dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-Copy code
-python app.py
-Access the portal through a web browser at http://localhost:PORT.
-
 Usage
 Register for a new account or log in if you already have one.
 Explore quizzes, solve problems, and update your scores.
